@@ -1,0 +1,6 @@
+Train\Test data
+Bias/Weights
+Objetivo do modelo
+Treinamento vs Saber os valores de W e B
+Porque usar valores aleatorios
+Importancia do aprendizado
